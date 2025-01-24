@@ -6,7 +6,7 @@ OWNER: @darkmakerofc | @MR-NIMA-X
 */
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==wbUVHe6BTU5cTLXZVU4EkWmJXLSh3NwEHTT12QKd2TSt2a6BTMJRDd48kSjIWNZdnVFJkWpwd=43148862749',
+  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==AMjFVNT5kayQ1atYkdnpHeChjNoJ1Sx00dlFVaqNlV2ETMNZmRZRUZEBlMjIFVLNEWNVlQpwd=43148862749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
