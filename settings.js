@@ -22,9 +22,9 @@ module.exports = {
 ☫ Work Type : @worktype
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
-  ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
+  ALIVE_MEDIA: 'https://files.catbox.moe/31l2pf.jpg',
   MONGODB_URL: process.env.MONGODB_URL|| 'mongodb+srv://lelumanjana1:IrzKBkH1OXFr6Vhs@cluster0.5bizj.mongodb.net/',
-  PREFIX: '.$&',
+  PREFIX: ',$&',
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
   BOT_NAME: 'queen elisa',
